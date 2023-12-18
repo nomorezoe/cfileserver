@@ -1,0 +1,5 @@
+/input/
+/output/
+/node_module/
+/temp/
+package-lock.json
